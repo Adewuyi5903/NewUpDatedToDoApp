@@ -1,0 +1,84 @@
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.exe
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.deps.json
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.json
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.dev.json
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.AssemblyReference.cache
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfoInputs.cache
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfo.cs
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\Desktop\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.genruntimeconfig.cache
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.exe
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.deps.json
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.json
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.dev.json
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.AssemblyReference.cache
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfoInputs.cache
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfo.cs
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\Desktop\New f\task_todo_application-Adewuyi5903\NewTodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.genruntimeconfig.cache
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.exe
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.deps.json
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.json
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.dev.json
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.AssemblyReference.cache
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfoInputs.cache
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfo.cs
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\NewestTodoApp\task_todo_application-Adewuyi5903\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.genruntimeconfig.cache
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.exe
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.deps.json
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.json
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.dev.json
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.AssemblyReference.cache
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfoInputs.cache
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfo.cs
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Ayilara.R\Desktop\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.genruntimeconfig.cache
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.exe
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.deps.json
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.json
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.dev.json
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.AssemblyReference.cache
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfoInputs.cache
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfo.cs
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\Downloads\LatifatAdewuyiToDoApp\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.genruntimeconfig.cache
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.exe
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.deps.json
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.json
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.runtimeconfig.dev.json
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\bin\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.AssemblyReference.cache
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfoInputs.cache
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.AssemblyInfo.cs
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.dll
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.pdb
+C:\Users\Adewuyi.L\OneDrive - Bullseye Digital Manpower\Desktop\New-Updated-Latifat-Adewuyi-ToDo-App\LatifatAdewuyiToDoApp\Latifat-updated-TodoApp\NewTodoApp\obj\Debug\netcoreapp3.1\NewTodoApp.genruntimeconfig.cache
